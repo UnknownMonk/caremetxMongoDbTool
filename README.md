@@ -79,10 +79,8 @@ If you want to clear the database run the command {npm run delete} .
 
 to run all the test run the command {npm run test} all test will show in the terminal.
 
-#### Anything else that seems useful
-
 ## License
 
 A short snippet describing the license (MIT, Apache etc)
 
-MIT © [Yourname]()
+MIT © [Jonas Walden]()
