@@ -89,20 +89,6 @@ const importData = async () => {
   }
 };
 
-// Delete data from db
-const deleteData = async () => {
-  try {
-    await PatientsData.deleteMany();
-    await EmailData.deleteMany();
-    console.log("Data Destroyed...".red.inverse);
-    process.exit();
-  } catch (err) {
-    console.error(err);
-  }
-};
-
 if (process.argv[2] === "-i") {
   importData();
-} else if (process.argv[2] === "-d") {
-  deleteData();
 }

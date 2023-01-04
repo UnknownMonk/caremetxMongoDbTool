@@ -6,7 +6,7 @@
   "scripts": {
     "convert": "node ./_data/convertToJson.js ",
     "load": "node ./collections/patientsCollection -i",
-    "delete": "node ./collections/patientsCollection -d",
+    "delete": "node ./collections/deleteCollection -d",
     "test": "node ./tests/test.js"
   },
   "repository": {
