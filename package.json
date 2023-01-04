@@ -1,0 +1,26 @@
+{
+  "name": "integrationtoolcarmex",
+  "version": "1.0.0",
+  "description": "code test",
+  "main": "server.js",
+  "scripts": {
+    "convert": "node ./_data/convertToJson.js ",
+    "load": "node ./collections/patientsCollection -i",
+    "delete": "node ./collections/patientsCollection -d",
+    "test": "node ./tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "intergrationToolCareMetx"
+  },
+  "author": "Jonas Walden",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "csv2json": "^2.0.2",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "mongodb": "^4.13.0",
+    "mongoose": "^6.8.2"
+  }
+}
