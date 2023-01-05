@@ -60,7 +60,7 @@ Make a new project.
 **Copy the code and return to your code editor**
 ![alt text](screenshots/CopyCode.png "Copy the code and return to your code editor")
 
-**Go to the config folder and past the code in the .env file and enter your password into the string**
+**Go to the config folder and paste the code in the .env file and enter your password into the string**
 ![alt text](screenshots/ENV.png "Go to the config folder and past the code in the .env file and enter your password into the string")
 
 ## How to use?
