@@ -65,15 +65,15 @@ Make a new project.
 
 ## How to use?
 
-First: In the terminal run the command {npm run convert} .
+==First:== In the terminal run the command {npm run convert} This will create a data.json file from the CSV given to complete this project.
 
-Second: run the command {npm run load} this will load the json file in the database and create the collections.
+==Second:== run the command {npm run load} this will load the json file in the database and create the collections and schedule the emails.
 
-If you want to clear the database run the command {npm run delete} .
+==If you want to clear the database run the command {npm run delete}.==
 
 ## Tests
 
-to run all the test run the command {npm run test} all test will show in the terminal.
+to run all the test run the command {npm run test} all test will show in a formatted style in terminal as console logs.
 
 ## License
 

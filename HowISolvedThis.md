@@ -6,9 +6,9 @@
 
 **I created a two Schemas and mongoose models one for Emails and one for all the Patient Data**
 
-![alt text](screenshots2/modles.png "I created a two Schemas and mongoose models one for Emails and one for all the Patient Data")
+![alt text](screenshots2/modles.png "I created a two Schemas and mongoose models. One for Emails and one for all the Patient Data")
 
-![alt text](screenshots2/pmodles.png "models ")**New Project in mongod db**
+![alt text](screenshots2/pmodles.png "models ")
 
 **I parsed the CSV file to clean the data**
 ![alt text](screenshots2/parsedData.png "New Project in mongod db")
@@ -20,7 +20,7 @@
 ![alt text](screenshots2/DeleteLogic.png "New Project in mongod db")
 
 **Then I set up functions to test if the database import was correct.**
-**Tall the code is commented**
+**All the code is commented**
 
 **then I set up scrips in the package.json**
 ![alt text](screenshots2/scriptsPackage.png "New ")mongod db\*\*
