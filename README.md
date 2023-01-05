@@ -2,10 +2,6 @@
 
 **CSV Integration Tool for Mongo DB**
 
-## Screenshots
-
-Include logo/demo screenshot etc.
-
 ## Tech/NPM Packages
 
 **Mongo DB**
